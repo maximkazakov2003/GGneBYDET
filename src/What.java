@@ -11,7 +11,7 @@ public class What {
         System.out.println(jopa.getall_data());
         myay.all_data(" Летучая мышь", "1", "темненький","Попка дурак"       );
         System.out.println(myay.getall_data());
-        Wova.all_data(" Воришка Вова", "10", "темно-белый в полску","хыхыххыхыхыы"       );
+        Wova.all_data(" Воришка Вова", "100", "темно-белый в полску","хыхыххыхыхыы"       );
         System.out.println(Wova.getall_data());
 
     }
